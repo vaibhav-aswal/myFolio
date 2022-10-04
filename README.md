@@ -77,8 +77,8 @@ module.exports = config;
 
 **For editing page contents**
 
-Navigate to /views where you can find two pug templates index and projects.
-Index is static and projects is dynamic. You can edit both according to your needs.
+Go to /views to access the index and projects of two pug templates.
+Projects are dynamic while the index is static. Both can be modified to suit your requirements.
 
 **For adding images and other static files**
 
